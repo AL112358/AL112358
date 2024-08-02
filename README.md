@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me 👋
 
 - 🔭 I’m currently doing my PhD on plasmon-assisted electrochemistry
 - 🌱 I’m currently learning Python, and in particular data analysis
